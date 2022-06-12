@@ -20,8 +20,6 @@ Skills: HTML / CSS/ JS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abdullah149081)  
 
-![GitHub metrics](https://metrics.lecoq.io/Abdullah149081)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah149081)  
 
 ![Profile views](https://gpvc.arturio.dev/Abdullah149081)  
