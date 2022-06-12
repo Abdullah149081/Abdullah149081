@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Abdullah 
-#### Web Developer
+#### Web Developer ![Profile views](https://gpvc.arturio.dev/Abdullah149081)  
 
 Skills: HTML / CSS/ JS
 
@@ -22,4 +22,4 @@ Skills: HTML / CSS/ JS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah149081)  
 
-![Profile views](https://gpvc.arturio.dev/Abdullah149081)  
+
