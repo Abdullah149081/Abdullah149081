@@ -1,5 +1,6 @@
 ### Hi there 👋, My Name is Abdullah 
-#### Web Developer ![Profile views](https://gpvc.arturio.dev/Abdullah149081)  
+#### Web Developer 
+![Profile views](https://gpvc.arturio.dev/Abdullah149081)  
 
 Skills: HTML / CSS/ JS
 
