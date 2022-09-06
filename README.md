@@ -34,6 +34,14 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abdullah149081)  
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah149081)  
+
+<a  href="https://github.com/abdullah149081">
+
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=abdullah149081&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah149081&layout=compact&langs_count=7&theme=cobalt"/>
+
+
+</div>
   
 
 
