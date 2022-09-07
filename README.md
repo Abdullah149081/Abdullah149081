@@ -1,6 +1,6 @@
 # Hi there 👋, My Name is Abdullah 
 #### Web Developer 
-![Profile views](https://gpvc.arturio.dev/Abdullah149081)  
+[![](https://visitcount.itsvg.in/api?id=Abdullah149081&icon=0&color=0)](https://visitcount.itsvg.in)
 - 🔭 I’m currently working on Javascript 
 - 🌱 I’m currently learning javascript 
 - 👯 I’m looking to collaborate on GitHub 
@@ -34,6 +34,18 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah149081)  
     
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abdullah149081)  
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abdullah149081&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah149081&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah149081&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abdullah149081&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Abdullah149081&icon=0&color=0)](https://visitcount.itsvg.in)
+
   
 
 
