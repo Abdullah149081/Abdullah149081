@@ -7,8 +7,8 @@
 
 </div>
 
- 🌱 I’m currently learning **express Js.**
- 💬 Ask me about **react**
+ 🌱 I’m currently learning **express Js.** </br>
+ 💬 Ask me about **react**</br>
  📫 How to reach me **abdullah149081@hotmail.com**
 
 ###  I code with
