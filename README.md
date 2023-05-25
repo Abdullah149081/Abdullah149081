@@ -7,11 +7,9 @@
 
 </div>
 
-- 🌱 I’m currently learning **express Js.**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **abdullah149081@hotmail.com**
+ 🌱 I’m currently learning **express Js.**
+ 💬 Ask me about **react**
+ 📫 How to reach me **abdullah149081@hotmail.com**
 
 ###  I code with
 
