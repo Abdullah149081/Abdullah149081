@@ -2,12 +2,11 @@
 <h3 align="center">A passionate frontend developer from</h3>
 
 :coffee: &emsp;Connect with me! </br>
-<div align="center"> 
- 
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah149081/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah149081@hotmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdullah149081/)
 
-</div>
+
 
  🌱 &emsp;I’m currently learning **express Js.** </br>
  💬 &emsp;Ask me about **react**</br>
