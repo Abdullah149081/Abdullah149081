@@ -32,17 +32,19 @@
 <h3 align="left">Software:</h3>
 <p align="left"> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="28" height="28"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="28" height="28"/> </a> </p>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="28" height="28"/> </a> 
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28" height="28"/> </a>
+
+</p>
 
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdullah149081&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdullah149081&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah149081&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah149081&theme=nightowl&hide_border=false)<br/>
   
 
