@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/abdullah149081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah149081" height="30" width="40" /></a>
 </p>
 
-3 align="left">Languages:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="28" height="28"/> </a>  
  <h3 align="left">Web:</h3>
