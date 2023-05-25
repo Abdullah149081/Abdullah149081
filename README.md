@@ -8,8 +8,8 @@
 </div>
 
  🌱 &emsp;I’m currently learning **express Js.** </br>
- 💬 Ask me about **react**</br>
- 📫 How to reach me **abdullah149081@hotmail.com**
+ 💬 &emsp;Ask me about **react**</br>
+ 📫 &emsp;How to reach me **abdullah149081@hotmail.com**
 
 ###  I code with
 
