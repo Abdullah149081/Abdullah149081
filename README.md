@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Masud</h1>
-<h3 align="center">A passionate frontend developer from</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 :coffee: &emsp;Connect with me! </br>
 
