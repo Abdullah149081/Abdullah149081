@@ -10,7 +10,7 @@
 
 
 
- 🌱 &emsp;I’m currently learning **express Js.** </br>
+ 🌱 &emsp;I’m currently learning **Redux.** </br>
  💬 &emsp;Ask me about **react**</br>
  :email: &emsp;How to reach me **abdullah149081@hotmail.com**
  
