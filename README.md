@@ -10,7 +10,7 @@
 
 
 
- 🌱 &emsp;I’m currently learning **Redux.** </br>
+ 🌱 &emsp;I’m currently learning **Mongoose.** </br>
  💬 &emsp;Ask me about **react**</br>
  :email: &emsp;How to reach me **abdullah149081@hotmail.com**
  
