@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Masud</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<div align="left">
+<a href="https://app.daily.dev/abdullahalmasud"><img align="right" src="https://github.com/abdullah149081/abdullah149081/blob/main/devcard.svg" width="200" alt="Abdullah Al Masud's Dev Card"/></a>
+</div>
+
 :coffee: &emsp;Connect with me! </br>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah149081/)
@@ -14,9 +18,7 @@
  💬 &emsp;Ask me about **react**</br>
  :email: &emsp;How to reach me **abdullah149081@hotmail.com**
 
-<div align="left">
-<a href="https://app.daily.dev/abdullahalmasud"><img align="right" src="https://github.com/abdullah149081/abdullah149081/blob/main/devcard.svg" width="200" alt="Abdullah Al Masud's Dev Card"/></a>
-</div>
+
  
 
 ###  I code with
