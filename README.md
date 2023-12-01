@@ -13,6 +13,10 @@
  🌱 &emsp;I’m currently learning **Mongoose.** </br>
  💬 &emsp;Ask me about **react**</br>
  :email: &emsp;How to reach me **abdullah149081@hotmail.com**
+
+<div align="left">
+<a href="https://app.daily.dev/abdullahalmasud"><img align="right" src="https://github.com/abdullah149081/abdullah149081/blob/main/devcard.svg" width="200" alt="Abdullah Al Masud's Dev Card"/></a>
+</div>
  
 
 ###  I code with
@@ -29,9 +33,7 @@
 
 ##
 
-<div align="left">
-<a href="https://app.daily.dev/abdullahalmasud"><img align="right" src="https://github.com/abdullah149081/abdullah149081/blob/main/devcard.svg" width="200" alt="Abdullah Al Masud's Dev Card"/></a>
-</div>
+
 
 <details>
 <p align="center">
