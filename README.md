@@ -29,7 +29,7 @@
 
 ##
 
-<a href="https://app.daily.dev/abdullahalmasud"><img src="https://api.daily.dev/devcards/8ac06c7aede64d2bb70861f0be8a0f35.png?r=xpw" width="400" alt="Abdullah Al Masud's Dev Card"/></a>
+<a href="https://app.daily.dev/abdullahalmasud"><img src="https://api.daily.dev/devcards/8ac06c7aede64d2bb70861f0be8a0f35.png?r=xpw" width="300" alt="Abdullah Al Masud's Dev Card"/></a>
 
 <details>
 <p align="center">
