@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <div align="left">
- <a href="https://app.daily.dev/abdullahalmasud"><img align="right"  src="https://api.daily.dev/devcards/v2/8EK8bKxYfmHQlKsq2IezP.png?r=1d4" width="250" alt="Abdullah Al Masud's Dev Card"/></a>
+<a href="https://app.daily.dev/abdullahalmasud"><img align="right" src="https://github.com/Abdullah149081/Abdullah149081/blob/main/devcard.png" width="250" alt="Abdullah Al Masud's Dev Card"/></a>
 </div>
 
 :coffee: &emsp;Connect with me! </br>
