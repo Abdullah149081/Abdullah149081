@@ -14,7 +14,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdullah149081/)
 
 
-
+ 🌱 &emsp;I’m currently learning **Python** </br>
  🔭 &emsp;I’m currently working on React/Next.js/TypeScript  </br>
  💬 &emsp;Ask me about **react**</br>
  :email: &emsp;How to reach me **abdullah149081@hotmail.com**
